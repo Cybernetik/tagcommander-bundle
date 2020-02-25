@@ -12,10 +12,11 @@
     ],
     "require": {
         "php":                ">=5.3.3",
-        "symfony/serializer": "^2.7"
+        "symfony/serializer": "^3.4",
+        "twig/twig": ">=2.11"
     },
     "require-dev": {
-        "symfony/symfony":           "2.3.*",
+        "symfony/symfony":           "3.4.*",
         "phpunit/phpunit":           "4.*",
         "squizlabs/php_codesniffer": "1.*",
         "sebastian/phpcpd":          "2.*",
